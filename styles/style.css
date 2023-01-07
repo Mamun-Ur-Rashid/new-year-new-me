@@ -15,7 +15,7 @@
 }
 /* this is header section */
 .header{
-    background: url(../images/banner/banner3.png);
+    background: url(/images/banner/banner3.png);
     width: 1600px;
     height: 808px;
     text-align: right;
